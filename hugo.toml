@@ -3,6 +3,11 @@ languageCode = "en-us"
 title = "HighTargets"
 theme = "hugo-book"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 # Enable left sidebar menu bundle for the book theme
 BookMenuBundle = "/menu"
 
