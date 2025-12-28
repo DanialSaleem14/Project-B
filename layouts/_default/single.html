@@ -1,31 +1,46 @@
 {{ define "main" }}
-<div class="container">
-    <div class="content-wrapper">
-        <article class="markdown">
-            <header class="content-header">
-                <h1>{{ .Title }}</h1>
-                <p class="text-muted">{{ .Date.Format "January 2, 2006" }}</p>
-            </header>
+<div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <div class="bg-white rounded-2xl shadow-sm border border-slate-100 overflow-hidden">
 
+        <!-- Header -->
+        <header class="bg-slate-50 px-8 py-10 border-b border-slate-100 text-center">
+            <h1 class="font-display text-3xl md:text-4xl font-bold text-slate-900 mb-3">{{ .Title }}</h1>
+            <time class="text-slate-500 font-medium">{{ .Date.Format "January 2, 2006" }}</time>
+        </header>
+
+        <div class="px-8 py-10">
             <!-- Top Ad Unit -->
             {{ partial "adsense.html" . }}
 
-            <div class="content-body">
+            <!-- Content (Prose) -->
+            <article
+                class="prose prose-lg prose-slate max-w-none prose-headings:font-display prose-headings:font-bold prose-a:text-primary hover:prose-a:text-blue-700 prose-img:rounded-xl">
                 {{ .Content }}
-            </div>
+            </article>
 
             <!-- Bottom Ad Unit -->
             {{ partial "adsense.html" . }}
-        </article>
+        </div>
 
-        <div style="margin-top: 3rem; display: flex; justify-content: space-between;">
+        <!-- Navigation -->
+        <div class="bg-slate-50 px-8 py-6 border-t border-slate-100 flex flex-col sm:flex-row justify-between gap-4">
             {{ with .PrevInSection }}
-            <a href="{{ .RelPermalink }}" class="btn-sm">&larr; Previous Test</a>
+            <a href="{{ .RelPermalink }}"
+                class="inline-flex items-center justify-center px-6 py-3 border border-slate-200 shadow-sm text-base font-medium rounded-lg text-slate-700 bg-white hover:bg-slate-50 hover:text-primary transition-colors">
+                &larr; Previous Test
+            </a>
+            {{ else }}
+            <div></div> <!-- Spacer -->
             {{ end }}
+
             {{ with .NextInSection }}
-            <a href="{{ .RelPermalink }}" class="btn-sm">Next Test &rarr;</a>
+            <a href="{{ .RelPermalink }}"
+                class="inline-flex items-center justify-center px-6 py-3 border border-transparent shadow-sm text-base font-medium rounded-lg text-white bg-primary hover:bg-blue-700 transition-colors">
+                Next Test &rarr;
+            </a>
             {{ end }}
         </div>
+
     </div>
 </div>
 {{ end }}
