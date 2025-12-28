@@ -1,0 +1,28 @@
+{{ define "main" }}
+<div class="hero">
+    <div class="container">
+        <h1>Achieve High Targets in IELTS</h1>
+        <p>Premium answer keys for Cambridge IELTS 10-20. Accuracy you can trust. Success you can measure.</p>
+
+        <!-- Search is handled by the theme usually, but we can add a visual placeholder or hook into theme search -->
+        <div class="search-box">
+            <input type="text" id="book-search-input"
+                placeholder="Search for Test Answer Key (e.g. Cambridge 15 Test 1)...">
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="answers-grid">
+        {{ $pages := where .Site.RegularPages "Section" "ielts" }}
+        {{ range $pages }}
+        <a href="{{ .RelPermalink }}" class="card">
+            <h3>{{ .Title }}</h3>
+            <p>{{ .Summary | truncate 100 }}</p>
+            <span class="btn-sm">View Answers &rarr;</span>
+        </a>
+        {{ end }}
+    </div>
+</div>
+
+{{ end }}

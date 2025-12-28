@@ -1,0 +1,27 @@
+{{- /* Shortcode: answer
+Usage: {{< answer>}}Hidden Answer{{< /answer>}}
+    Renders a blue "Show Answer" button that toggles a hidden answer box
+    The answer box content is rendered with markdown support.
+    */ -}}
+    {{ $seed := now.UnixNano }}
+    {{ $id := printf "answer-%d" $seed }}
+    <button id="{{ $id }}-btn" class="answer-toggle-btn">Show Answer</button>
+    <div id="{{ $id }}-box" class="answer-content-box" style="display:none;">
+      {{ .Inner | markdownify }}
+    </div>
+    <script>
+      (function () {
+        var btn = document.getElementById("{{ $id }}-btn");
+        var box = document.getElementById("{{ $id }}-box");
+        if (!btn || !box) return;
+        btn.addEventListener('click', function () {
+          if (box.style.display === 'none' || box.style.display === '') {
+            box.style.display = 'block';
+            btn.textContent = 'Hide Answer';
+          } else {
+            box.style.display = 'none';
+            btn.textContent = 'Show Answer';
+          }
+        });
+      })();
+    </script>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6340822457141383"
+        crossorigin="anonymous"></script>
+    <title>{{ block "title" . }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+
+    {{ if .Description }}
+    <meta name="description" content="{{ .Description }}">
+    {{ end }}
+
+    <link rel="stylesheet" href="{{ " css/custom.css" | relURL }}">
+</head>
+
+<body>
+
+    <header class="header">
+        <div class="container header-inner">
+            {{ partial "docs/brand.html" . }}
+
+            <nav class="nav-links">
+                <a href="{{ .Site.Home.RelPermalink }}">Home</a>
+                <a href="#">About</a>
+                <a href="#">Contact</a>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        {{ block "main" . }}{{ end }}
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; {{ now.Year }} {{ .Site.Title }}. All rights reserved.</p>
+            <p style="font-size: 0.8rem; margin-top: 0.5rem;">Helping students achieve high targets in IELTS.</p>
+        </div>
+    </footer>
+
+</body>
+
+</html>

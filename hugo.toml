@@ -1,3 +1,16 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://example.com/" # placeholder — replace with your real site URL
+languageCode = "en-us"
+title = "HighTargets"
+theme = "hugo-book"
+
+# Enable left sidebar menu bundle for the book theme
+BookMenuBundle = "/menu"
+
+[permalinks]
+# Ensure blog posts appear as /section/post-title/
+posts = "/:section/:slug/"
+
+[params]
+customCSS = ["css/custom.css"]
+# Section used by the theme to build the left-hand book menu
+BookSection = "ielts/reading"
