@@ -6,13 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ block "title" . }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
 
-    {{ if .Description }}
-    <meta name="description" content="{{ .Description }}">
-    {{ end }}
-
-    <!-- AdSense -->
+    <!-- AdSense Verification (Script) -->
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6340822457141383"
         crossorigin="anonymous"></script>
+
+    <!-- AdSense Verification (Meta Code - Fallback) -->
+    <meta name="google-adsense-account" content="ca-pub-6340822457141383">
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -75,9 +74,10 @@
                         class="text-slate-600 hover:text-primary font-medium transition-colors cursor-pointer">Contact</a>
                 </nav>
 
-                <!-- Mobile Menu Button (Placeholder) -->
+                <!-- Mobile Menu Button -->
                 <div class="md:hidden">
-                    <button class="text-slate-600 hover:text-primary p-2">
+                    <button onclick="toggleMobileMenu()"
+                        class="text-slate-600 hover:text-primary p-2 focus:outline-none">
                         <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                 d="M4 6h16M4 12h16M4 18h16"></path>
@@ -86,6 +86,26 @@
                 </div>
             </div>
         </div>
+
+        <!-- Mobile Menu (Hidden by default) -->
+        <div id="mobile-menu" class="hidden md:hidden bg-white border-b border-slate-200 shadow-lg">
+            <div class="px-4 pt-2 pb-4 space-y-1">
+                <a href="#" onclick="goToPage('home'); toggleMobileMenu()"
+                    class="block px-3 py-2 rounded-md text-base font-medium text-slate-700 hover:text-primary hover:bg-slate-50 transition-colors">Home</a>
+                <a href="#" onclick="goToPage('about'); toggleMobileMenu()"
+                    class="block px-3 py-2 rounded-md text-base font-medium text-slate-700 hover:text-primary hover:bg-slate-50 transition-colors">About</a>
+                <a href="#" onclick="goToPage('contact'); toggleMobileMenu()"
+                    class="block px-3 py-2 rounded-md text-base font-medium text-slate-700 hover:text-primary hover:bg-slate-50 transition-colors">Contact</a>
+            </div>
+        </div>
+
+        <script>
+            function toggleMobileMenu() {
+                const menu = document.getElementById('mobile-menu');
+                menu.classList.toggle('hidden');
+            }
+        </script>
+
     </header>
 
     <main class="flex-grow">

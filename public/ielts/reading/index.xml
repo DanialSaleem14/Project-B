@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>IELTS Reading on HighTargets</title><link>https://example.com/ielts/reading/</link><description>Recent content in IELTS Reading on HighTargets</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 11 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/ielts/reading/index.xml" rel="self" type="application/rss+xml"/><item><title>Cambridge 10 — Test 1 (Reading)</title><link>https://example.com/ielts/reading/cambridge-10-test-1/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-10-test-1/</guid><description>&lt;h2 id="cambridge-10--test-1-reading"&gt;Cambridge 10 — Test 1 (Reading)&lt;a class="anchor" href="#cambridge-10--test-1-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>IELTS Reading on HighTargets</title><link>https://www.hightargets.com/ielts/reading/</link><description>Recent content in IELTS Reading on HighTargets</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 11 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.hightargets.com/ielts/reading/index.xml" rel="self" type="application/rss+xml"/><item><title>Cambridge 10 — Test 1 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-10-test-1/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-10-test-1/</guid><description>&lt;h2 id="cambridge-10--test-1-reading"&gt;Cambridge 10 — Test 1 (Reading)&lt;a class="anchor" href="#cambridge-10--test-1-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 10 Reading Test 1. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865235364900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865235364900-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690135448100-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690135448100-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -134,8 +134,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865235364900-btn");
- var box = document.getElementById("answer-1766932865235364900-box");
+ var btn = document.getElementById("answer-1766933690135448100-btn");
+ var box = document.getElementById("answer-1766933690135448100-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -147,12 +147,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 10 — Test 2 (Reading)</title><link>https://example.com/ielts/reading/cambridge-10-test-2/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-10-test-2/</guid><description>&lt;h2 id="cambridge-10--test-2-reading"&gt;Cambridge 10 — Test 2 (Reading)&lt;a class="anchor" href="#cambridge-10--test-2-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 10 — Test 2 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-10-test-2/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-10-test-2/</guid><description>&lt;h2 id="cambridge-10--test-2-reading"&gt;Cambridge 10 — Test 2 (Reading)&lt;a class="anchor" href="#cambridge-10--test-2-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 10 Reading Test 2. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865240172200-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865240172200-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690133436700-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690133436700-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -283,8 +283,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865240172200-btn");
- var box = document.getElementById("answer-1766932865240172200-box");
+ var btn = document.getElementById("answer-1766933690133436700-btn");
+ var box = document.getElementById("answer-1766933690133436700-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -296,12 +296,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 10 — Test 3 (Reading)</title><link>https://example.com/ielts/reading/cambridge-10-test-3/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-10-test-3/</guid><description>&lt;h2 id="cambridge-10--test-3-reading"&gt;Cambridge 10 — Test 3 (Reading)&lt;a class="anchor" href="#cambridge-10--test-3-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 10 — Test 3 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-10-test-3/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-10-test-3/</guid><description>&lt;h2 id="cambridge-10--test-3-reading"&gt;Cambridge 10 — Test 3 (Reading)&lt;a class="anchor" href="#cambridge-10--test-3-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 10 Reading Test 3. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865235364900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865235364900-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690133436700-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690133436700-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -432,8 +432,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865235364900-btn");
- var box = document.getElementById("answer-1766932865235364900-box");
+ var btn = document.getElementById("answer-1766933690133436700-btn");
+ var box = document.getElementById("answer-1766933690133436700-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -445,12 +445,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 10 — Test 4 (Reading)</title><link>https://example.com/ielts/reading/cambridge-10-test-4/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-10-test-4/</guid><description>&lt;h2 id="cambridge-10--test-4-reading"&gt;Cambridge 10 — Test 4 (Reading)&lt;a class="anchor" href="#cambridge-10--test-4-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 10 — Test 4 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-10-test-4/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-10-test-4/</guid><description>&lt;h2 id="cambridge-10--test-4-reading"&gt;Cambridge 10 — Test 4 (Reading)&lt;a class="anchor" href="#cambridge-10--test-4-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 10 Reading Test 4. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865235364900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865235364900-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690135448100-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690135448100-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -581,8 +581,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865235364900-btn");
- var box = document.getElementById("answer-1766932865235364900-box");
+ var btn = document.getElementById("answer-1766933690135448100-btn");
+ var box = document.getElementById("answer-1766933690135448100-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -594,12 +594,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 11 — Test 1 (Reading)</title><link>https://example.com/ielts/reading/cambridge-11-test-1/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-11-test-1/</guid><description>&lt;h2 id="cambridge-11--test-1-reading"&gt;Cambridge 11 — Test 1 (Reading)&lt;a class="anchor" href="#cambridge-11--test-1-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 11 — Test 1 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-11-test-1/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-11-test-1/</guid><description>&lt;h2 id="cambridge-11--test-1-reading"&gt;Cambridge 11 — Test 1 (Reading)&lt;a class="anchor" href="#cambridge-11--test-1-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 11 Reading Test 1. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865237374400-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865237374400-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690135448100-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690135448100-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -730,8 +730,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865237374400-btn");
- var box = document.getElementById("answer-1766932865237374400-box");
+ var btn = document.getElementById("answer-1766933690135448100-btn");
+ var box = document.getElementById("answer-1766933690135448100-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -743,12 +743,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 11 — Test 2 (Reading)</title><link>https://example.com/ielts/reading/cambridge-11-test-2/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-11-test-2/</guid><description>&lt;h2 id="cambridge-11--test-2-reading"&gt;Cambridge 11 — Test 2 (Reading)&lt;a class="anchor" href="#cambridge-11--test-2-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 11 — Test 2 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-11-test-2/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-11-test-2/</guid><description>&lt;h2 id="cambridge-11--test-2-reading"&gt;Cambridge 11 — Test 2 (Reading)&lt;a class="anchor" href="#cambridge-11--test-2-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 11 Reading Test 2. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865237374400-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865237374400-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690135448100-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690135448100-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -879,8 +879,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865237374400-btn");
- var box = document.getElementById("answer-1766932865237374400-box");
+ var btn = document.getElementById("answer-1766933690135448100-btn");
+ var box = document.getElementById("answer-1766933690135448100-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -892,12 +892,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 11 — Test 3 (Reading)</title><link>https://example.com/ielts/reading/cambridge-11-test-3/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-11-test-3/</guid><description>&lt;h2 id="cambridge-11--test-3-reading"&gt;Cambridge 11 — Test 3 (Reading)&lt;a class="anchor" href="#cambridge-11--test-3-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 11 — Test 3 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-11-test-3/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-11-test-3/</guid><description>&lt;h2 id="cambridge-11--test-3-reading"&gt;Cambridge 11 — Test 3 (Reading)&lt;a class="anchor" href="#cambridge-11--test-3-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 11 Reading Test 3. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865240172200-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865240172200-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690145799500-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690145799500-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -1028,8 +1028,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865240172200-btn");
- var box = document.getElementById("answer-1766932865240172200-box");
+ var btn = document.getElementById("answer-1766933690145799500-btn");
+ var box = document.getElementById("answer-1766933690145799500-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -1041,12 +1041,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 11 — Test 4 (Reading)</title><link>https://example.com/ielts/reading/cambridge-11-test-4/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-11-test-4/</guid><description>&lt;h2 id="cambridge-11--test-4-reading"&gt;Cambridge 11 — Test 4 (Reading)&lt;a class="anchor" href="#cambridge-11--test-4-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 11 — Test 4 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-11-test-4/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-11-test-4/</guid><description>&lt;h2 id="cambridge-11--test-4-reading"&gt;Cambridge 11 — Test 4 (Reading)&lt;a class="anchor" href="#cambridge-11--test-4-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 11 Reading Test 4. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865240172200-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865240172200-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690141006900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690141006900-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -1177,8 +1177,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865240172200-btn");
- var box = document.getElementById("answer-1766932865240172200-box");
+ var btn = document.getElementById("answer-1766933690141006900-btn");
+ var box = document.getElementById("answer-1766933690141006900-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -1190,12 +1190,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 12 — Test 1 (Reading)</title><link>https://example.com/ielts/reading/cambridge-12-test-1/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-12-test-1/</guid><description>&lt;h2 id="cambridge-12--test-1-reading"&gt;Cambridge 12 — Test 1 (Reading)&lt;a class="anchor" href="#cambridge-12--test-1-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 12 — Test 1 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-12-test-1/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-12-test-1/</guid><description>&lt;h2 id="cambridge-12--test-1-reading"&gt;Cambridge 12 — Test 1 (Reading)&lt;a class="anchor" href="#cambridge-12--test-1-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 12 Reading Test 1. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865243036200-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865243036200-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690141006900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690141006900-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -1326,8 +1326,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865243036200-btn");
- var box = document.getElementById("answer-1766932865243036200-box");
+ var btn = document.getElementById("answer-1766933690141006900-btn");
+ var box = document.getElementById("answer-1766933690141006900-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -1339,12 +1339,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 12 — Test 2 (Reading)</title><link>https://example.com/ielts/reading/cambridge-12-test-2/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-12-test-2/</guid><description>&lt;h2 id="cambridge-12--test-2-reading"&gt;Cambridge 12 — Test 2 (Reading)&lt;a class="anchor" href="#cambridge-12--test-2-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 12 — Test 2 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-12-test-2/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-12-test-2/</guid><description>&lt;h2 id="cambridge-12--test-2-reading"&gt;Cambridge 12 — Test 2 (Reading)&lt;a class="anchor" href="#cambridge-12--test-2-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 12 Reading Test 2. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865243036200-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865243036200-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690143018900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690143018900-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -1475,8 +1475,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865243036200-btn");
- var box = document.getElementById("answer-1766932865243036200-box");
+ var btn = document.getElementById("answer-1766933690143018900-btn");
+ var box = document.getElementById("answer-1766933690143018900-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -1488,12 +1488,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 12 — Test 3 (Reading)</title><link>https://example.com/ielts/reading/cambridge-12-test-3/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-12-test-3/</guid><description>&lt;h2 id="cambridge-12--test-3-reading"&gt;Cambridge 12 — Test 3 (Reading)&lt;a class="anchor" href="#cambridge-12--test-3-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 12 — Test 3 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-12-test-3/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-12-test-3/</guid><description>&lt;h2 id="cambridge-12--test-3-reading"&gt;Cambridge 12 — Test 3 (Reading)&lt;a class="anchor" href="#cambridge-12--test-3-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 12 Reading Test 3. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865246144900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865246144900-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690143018900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690143018900-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -1624,8 +1624,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865246144900-btn");
- var box = document.getElementById("answer-1766932865246144900-box");
+ var btn = document.getElementById("answer-1766933690143018900-btn");
+ var box = document.getElementById("answer-1766933690143018900-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -1637,12 +1637,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 12 — Test 4 (Reading)</title><link>https://example.com/ielts/reading/cambridge-12-test-4/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-12-test-4/</guid><description>&lt;h2 id="cambridge-12--test-4-reading"&gt;Cambridge 12 — Test 4 (Reading)&lt;a class="anchor" href="#cambridge-12--test-4-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 12 — Test 4 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-12-test-4/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-12-test-4/</guid><description>&lt;h2 id="cambridge-12--test-4-reading"&gt;Cambridge 12 — Test 4 (Reading)&lt;a class="anchor" href="#cambridge-12--test-4-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 12 Reading Test 4. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865246144900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865246144900-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690143018900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690143018900-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -1773,8 +1773,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865246144900-btn");
- var box = document.getElementById("answer-1766932865246144900-box");
+ var btn = document.getElementById("answer-1766933690143018900-btn");
+ var box = document.getElementById("answer-1766933690143018900-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -1786,12 +1786,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 13 — Test 1 (Reading)</title><link>https://example.com/ielts/reading/cambridge-13-test-1/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-13-test-1/</guid><description>&lt;h2 id="cambridge-13--test-1-reading"&gt;Cambridge 13 — Test 1 (Reading)&lt;a class="anchor" href="#cambridge-13--test-1-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 13 — Test 1 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-13-test-1/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-13-test-1/</guid><description>&lt;h2 id="cambridge-13--test-1-reading"&gt;Cambridge 13 — Test 1 (Reading)&lt;a class="anchor" href="#cambridge-13--test-1-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 13 Reading Test 1. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865246144900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865246144900-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690143018900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690143018900-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -1922,8 +1922,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865246144900-btn");
- var box = document.getElementById("answer-1766932865246144900-box");
+ var btn = document.getElementById("answer-1766933690143018900-btn");
+ var box = document.getElementById("answer-1766933690143018900-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -1935,12 +1935,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 13 — Test 2 (Reading)</title><link>https://example.com/ielts/reading/cambridge-13-test-2/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-13-test-2/</guid><description>&lt;h2 id="cambridge-13--test-2-reading"&gt;Cambridge 13 — Test 2 (Reading)&lt;a class="anchor" href="#cambridge-13--test-2-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 13 — Test 2 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-13-test-2/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-13-test-2/</guid><description>&lt;h2 id="cambridge-13--test-2-reading"&gt;Cambridge 13 — Test 2 (Reading)&lt;a class="anchor" href="#cambridge-13--test-2-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 13 Reading Test 2. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865248673100-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865248673100-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690148864000-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690148864000-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -2071,8 +2071,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865248673100-btn");
- var box = document.getElementById("answer-1766932865248673100-box");
+ var btn = document.getElementById("answer-1766933690148864000-btn");
+ var box = document.getElementById("answer-1766933690148864000-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -2084,12 +2084,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 13 — Test 3 (Reading)</title><link>https://example.com/ielts/reading/cambridge-13-test-3/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-13-test-3/</guid><description>&lt;h2 id="cambridge-13--test-3-reading"&gt;Cambridge 13 — Test 3 (Reading)&lt;a class="anchor" href="#cambridge-13--test-3-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 13 — Test 3 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-13-test-3/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-13-test-3/</guid><description>&lt;h2 id="cambridge-13--test-3-reading"&gt;Cambridge 13 — Test 3 (Reading)&lt;a class="anchor" href="#cambridge-13--test-3-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 13 Reading Test 3. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865250689000-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865250689000-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690175525300-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690175525300-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -2220,8 +2220,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865250689000-btn");
- var box = document.getElementById("answer-1766932865250689000-box");
+ var btn = document.getElementById("answer-1766933690175525300-btn");
+ var box = document.getElementById("answer-1766933690175525300-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -2233,12 +2233,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 13 — Test 4 (Reading)</title><link>https://example.com/ielts/reading/cambridge-13-test-4/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-13-test-4/</guid><description>&lt;h2 id="cambridge-13--test-4-reading"&gt;Cambridge 13 — Test 4 (Reading)&lt;a class="anchor" href="#cambridge-13--test-4-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 13 — Test 4 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-13-test-4/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-13-test-4/</guid><description>&lt;h2 id="cambridge-13--test-4-reading"&gt;Cambridge 13 — Test 4 (Reading)&lt;a class="anchor" href="#cambridge-13--test-4-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 13 Reading Test 4. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865254524300-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865254524300-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690156240700-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690156240700-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -2369,8 +2369,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865254524300-btn");
- var box = document.getElementById("answer-1766932865254524300-box");
+ var btn = document.getElementById("answer-1766933690156240700-btn");
+ var box = document.getElementById("answer-1766933690156240700-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -2382,12 +2382,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 14 — Test 1 (Reading)</title><link>https://example.com/ielts/reading/cambridge-14-test-1/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-14-test-1/</guid><description>&lt;h2 id="cambridge-14--test-1-reading"&gt;Cambridge 14 — Test 1 (Reading)&lt;a class="anchor" href="#cambridge-14--test-1-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 14 — Test 1 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-14-test-1/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-14-test-1/</guid><description>&lt;h2 id="cambridge-14--test-1-reading"&gt;Cambridge 14 — Test 1 (Reading)&lt;a class="anchor" href="#cambridge-14--test-1-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 14 Reading Test 1. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865255557500-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865255557500-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690150171800-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690150171800-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -2518,8 +2518,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865255557500-btn");
- var box = document.getElementById("answer-1766932865255557500-box");
+ var btn = document.getElementById("answer-1766933690150171800-btn");
+ var box = document.getElementById("answer-1766933690150171800-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -2531,12 +2531,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 14 — Test 2 (Reading)</title><link>https://example.com/ielts/reading/cambridge-14-test-2/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-14-test-2/</guid><description>&lt;h2 id="cambridge-14--test-2-reading"&gt;Cambridge 14 — Test 2 (Reading)&lt;a class="anchor" href="#cambridge-14--test-2-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 14 — Test 2 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-14-test-2/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-14-test-2/</guid><description>&lt;h2 id="cambridge-14--test-2-reading"&gt;Cambridge 14 — Test 2 (Reading)&lt;a class="anchor" href="#cambridge-14--test-2-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 14 Reading Test 2. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865335300600-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865335300600-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690154194900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690154194900-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -2667,8 +2667,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865335300600-btn");
- var box = document.getElementById("answer-1766932865335300600-box");
+ var btn = document.getElementById("answer-1766933690154194900-btn");
+ var box = document.getElementById("answer-1766933690154194900-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -2680,12 +2680,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 14 — Test 3 (Reading)</title><link>https://example.com/ielts/reading/cambridge-14-test-3/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-14-test-3/</guid><description>&lt;h2 id="cambridge-14--test-3-reading"&gt;Cambridge 14 — Test 3 (Reading)&lt;a class="anchor" href="#cambridge-14--test-3-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 14 — Test 3 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-14-test-3/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-14-test-3/</guid><description>&lt;h2 id="cambridge-14--test-3-reading"&gt;Cambridge 14 — Test 3 (Reading)&lt;a class="anchor" href="#cambridge-14--test-3-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 14 Reading Test 3. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865375004700-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865375004700-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690155206800-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690155206800-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -2816,8 +2816,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865375004700-btn");
- var box = document.getElementById("answer-1766932865375004700-box");
+ var btn = document.getElementById("answer-1766933690155206800-btn");
+ var box = document.getElementById("answer-1766933690155206800-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -2829,12 +2829,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 14 — Test 4 (Reading)</title><link>https://example.com/ielts/reading/cambridge-14-test-4/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-14-test-4/</guid><description>&lt;h2 id="cambridge-14--test-4-reading"&gt;Cambridge 14 — Test 4 (Reading)&lt;a class="anchor" href="#cambridge-14--test-4-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 14 — Test 4 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-14-test-4/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-14-test-4/</guid><description>&lt;h2 id="cambridge-14--test-4-reading"&gt;Cambridge 14 — Test 4 (Reading)&lt;a class="anchor" href="#cambridge-14--test-4-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 14 Reading Test 4. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865320553600-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865320553600-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690158280700-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690158280700-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -2965,8 +2965,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865320553600-btn");
- var box = document.getElementById("answer-1766932865320553600-box");
+ var btn = document.getElementById("answer-1766933690158280700-btn");
+ var box = document.getElementById("answer-1766933690158280700-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -2978,12 +2978,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 15 — Test 1 (Reading)</title><link>https://example.com/ielts/reading/cambridge-15-test-1/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-15-test-1/</guid><description>&lt;h2 id="cambridge-15--test-1-reading"&gt;Cambridge 15 — Test 1 (Reading)&lt;a class="anchor" href="#cambridge-15--test-1-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 15 — Test 1 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-15-test-1/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-15-test-1/</guid><description>&lt;h2 id="cambridge-15--test-1-reading"&gt;Cambridge 15 — Test 1 (Reading)&lt;a class="anchor" href="#cambridge-15--test-1-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 15 Reading Test 1. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865257434300-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865257434300-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690158280700-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690158280700-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -3114,8 +3114,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865257434300-btn");
- var box = document.getElementById("answer-1766932865257434300-box");
+ var btn = document.getElementById("answer-1766933690158280700-btn");
+ var box = document.getElementById("answer-1766933690158280700-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -3127,12 +3127,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 15 — Test 2 (Reading)</title><link>https://example.com/ielts/reading/cambridge-15-test-2/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-15-test-2/</guid><description>&lt;h2 id="cambridge-15--test-2-reading"&gt;Cambridge 15 — Test 2 (Reading)&lt;a class="anchor" href="#cambridge-15--test-2-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 15 — Test 2 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-15-test-2/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-15-test-2/</guid><description>&lt;h2 id="cambridge-15--test-2-reading"&gt;Cambridge 15 — Test 2 (Reading)&lt;a class="anchor" href="#cambridge-15--test-2-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 15 Reading Test 2. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865274177300-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865274177300-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690177542900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690177542900-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -3263,8 +3263,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865274177300-btn");
- var box = document.getElementById("answer-1766932865274177300-box");
+ var btn = document.getElementById("answer-1766933690177542900-btn");
+ var box = document.getElementById("answer-1766933690177542900-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -3276,12 +3276,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 15 — Test 3 (Reading)</title><link>https://example.com/ielts/reading/cambridge-15-test-3/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-15-test-3/</guid><description>&lt;h2 id="cambridge-15--test-3-reading"&gt;Cambridge 15 — Test 3 (Reading)&lt;a class="anchor" href="#cambridge-15--test-3-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 15 — Test 3 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-15-test-3/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-15-test-3/</guid><description>&lt;h2 id="cambridge-15--test-3-reading"&gt;Cambridge 15 — Test 3 (Reading)&lt;a class="anchor" href="#cambridge-15--test-3-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 15 Reading Test 3. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865257434300-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865257434300-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690158280700-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690158280700-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -3412,8 +3412,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865257434300-btn");
- var box = document.getElementById("answer-1766932865257434300-box");
+ var btn = document.getElementById("answer-1766933690158280700-btn");
+ var box = document.getElementById("answer-1766933690158280700-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -3425,12 +3425,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 15 — Test 4 (Reading)</title><link>https://example.com/ielts/reading/cambridge-15-test-4/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-15-test-4/</guid><description>&lt;h2 id="cambridge-15--test-4-reading"&gt;Cambridge 15 — Test 4 (Reading)&lt;a class="anchor" href="#cambridge-15--test-4-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 15 — Test 4 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-15-test-4/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-15-test-4/</guid><description>&lt;h2 id="cambridge-15--test-4-reading"&gt;Cambridge 15 — Test 4 (Reading)&lt;a class="anchor" href="#cambridge-15--test-4-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 15 Reading Test 4. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865260345600-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865260345600-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690244156200-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690244156200-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -3561,8 +3561,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865260345600-btn");
- var box = document.getElementById("answer-1766932865260345600-box");
+ var btn = document.getElementById("answer-1766933690244156200-btn");
+ var box = document.getElementById("answer-1766933690244156200-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -3574,12 +3574,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 16 — Test 1 (Reading)</title><link>https://example.com/ielts/reading/cambridge-16-test-1/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-16-test-1/</guid><description>&lt;h2 id="cambridge-16--test-1-reading"&gt;Cambridge 16 — Test 1 (Reading)&lt;a class="anchor" href="#cambridge-16--test-1-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 16 — Test 1 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-16-test-1/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-16-test-1/</guid><description>&lt;h2 id="cambridge-16--test-1-reading"&gt;Cambridge 16 — Test 1 (Reading)&lt;a class="anchor" href="#cambridge-16--test-1-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 16 Reading Test 1. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865264941400-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865264941400-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690252608200-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690252608200-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -3710,8 +3710,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865264941400-btn");
- var box = document.getElementById("answer-1766932865264941400-box");
+ var btn = document.getElementById("answer-1766933690252608200-btn");
+ var box = document.getElementById("answer-1766933690252608200-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -3723,12 +3723,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 16 — Test 2 (Reading)</title><link>https://example.com/ielts/reading/cambridge-16-test-2/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-16-test-2/</guid><description>&lt;h2 id="cambridge-16--test-2-reading"&gt;Cambridge 16 — Test 2 (Reading)&lt;a class="anchor" href="#cambridge-16--test-2-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 16 — Test 2 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-16-test-2/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-16-test-2/</guid><description>&lt;h2 id="cambridge-16--test-2-reading"&gt;Cambridge 16 — Test 2 (Reading)&lt;a class="anchor" href="#cambridge-16--test-2-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 16 Reading Test 2. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865266957500-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865266957500-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690257633100-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690257633100-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -3859,8 +3859,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865266957500-btn");
- var box = document.getElementById("answer-1766932865266957500-box");
+ var btn = document.getElementById("answer-1766933690257633100-btn");
+ var box = document.getElementById("answer-1766933690257633100-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -3872,12 +3872,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 16 — Test 3 (Reading)</title><link>https://example.com/ielts/reading/cambridge-16-test-3/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-16-test-3/</guid><description>&lt;h2 id="cambridge-16--test-3-reading"&gt;Cambridge 16 — Test 3 (Reading)&lt;a class="anchor" href="#cambridge-16--test-3-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 16 — Test 3 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-16-test-3/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-16-test-3/</guid><description>&lt;h2 id="cambridge-16--test-3-reading"&gt;Cambridge 16 — Test 3 (Reading)&lt;a class="anchor" href="#cambridge-16--test-3-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 16 Reading Test 3. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865266957500-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865266957500-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690258368100-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690258368100-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -4008,8 +4008,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865266957500-btn");
- var box = document.getElementById("answer-1766932865266957500-box");
+ var btn = document.getElementById("answer-1766933690258368100-btn");
+ var box = document.getElementById("answer-1766933690258368100-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -4021,12 +4021,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 16 — Test 4 (Reading)</title><link>https://example.com/ielts/reading/cambridge-16-test-4/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-16-test-4/</guid><description>&lt;h2 id="cambridge-16--test-4-reading"&gt;Cambridge 16 — Test 4 (Reading)&lt;a class="anchor" href="#cambridge-16--test-4-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 16 — Test 4 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-16-test-4/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-16-test-4/</guid><description>&lt;h2 id="cambridge-16--test-4-reading"&gt;Cambridge 16 — Test 4 (Reading)&lt;a class="anchor" href="#cambridge-16--test-4-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 16 Reading Test 4. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865270994000-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865270994000-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690234147300-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690234147300-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -4157,8 +4157,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865270994000-btn");
- var box = document.getElementById("answer-1766932865270994000-box");
+ var btn = document.getElementById("answer-1766933690234147300-btn");
+ var box = document.getElementById("answer-1766933690234147300-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -4170,12 +4170,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 17 — Test 1 (Reading)</title><link>https://example.com/ielts/reading/cambridge-17-test-1/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-17-test-1/</guid><description>&lt;h2 id="cambridge-17--test-1-reading"&gt;Cambridge 17 — Test 1 (Reading)&lt;a class="anchor" href="#cambridge-17--test-1-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 17 — Test 1 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-17-test-1/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-17-test-1/</guid><description>&lt;h2 id="cambridge-17--test-1-reading"&gt;Cambridge 17 — Test 1 (Reading)&lt;a class="anchor" href="#cambridge-17--test-1-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 17 Reading Test 1. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865270994000-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865270994000-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690222992900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690222992900-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -4306,8 +4306,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865270994000-btn");
- var box = document.getElementById("answer-1766932865270994000-box");
+ var btn = document.getElementById("answer-1766933690222992900-btn");
+ var box = document.getElementById("answer-1766933690222992900-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -4319,12 +4319,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 17 — Test 2 (Reading)</title><link>https://example.com/ielts/reading/cambridge-17-test-2/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-17-test-2/</guid><description>&lt;h2 id="cambridge-17--test-2-reading"&gt;Cambridge 17 — Test 2 (Reading)&lt;a class="anchor" href="#cambridge-17--test-2-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 17 — Test 2 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-17-test-2/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-17-test-2/</guid><description>&lt;h2 id="cambridge-17--test-2-reading"&gt;Cambridge 17 — Test 2 (Reading)&lt;a class="anchor" href="#cambridge-17--test-2-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 17 Reading Test 2. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865279461800-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865279461800-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690222992900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690222992900-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -4455,8 +4455,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865279461800-btn");
- var box = document.getElementById("answer-1766932865279461800-box");
+ var btn = document.getElementById("answer-1766933690222992900-btn");
+ var box = document.getElementById("answer-1766933690222992900-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -4468,12 +4468,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 17 — Test 3 (Reading)</title><link>https://example.com/ielts/reading/cambridge-17-test-3/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-17-test-3/</guid><description>&lt;h2 id="cambridge-17--test-3-reading"&gt;Cambridge 17 — Test 3 (Reading)&lt;a class="anchor" href="#cambridge-17--test-3-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 17 — Test 3 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-17-test-3/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-17-test-3/</guid><description>&lt;h2 id="cambridge-17--test-3-reading"&gt;Cambridge 17 — Test 3 (Reading)&lt;a class="anchor" href="#cambridge-17--test-3-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 17 Reading Test 3. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865279461800-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865279461800-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690239884000-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690239884000-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -4604,8 +4604,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865279461800-btn");
- var box = document.getElementById("answer-1766932865279461800-box");
+ var btn = document.getElementById("answer-1766933690239884000-btn");
+ var box = document.getElementById("answer-1766933690239884000-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -4617,12 +4617,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 17 — Test 4 (Reading)</title><link>https://example.com/ielts/reading/cambridge-17-test-4/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-17-test-4/</guid><description>&lt;h2 id="cambridge-17--test-4-reading"&gt;Cambridge 17 — Test 4 (Reading)&lt;a class="anchor" href="#cambridge-17--test-4-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 17 — Test 4 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-17-test-4/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-17-test-4/</guid><description>&lt;h2 id="cambridge-17--test-4-reading"&gt;Cambridge 17 — Test 4 (Reading)&lt;a class="anchor" href="#cambridge-17--test-4-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 17 Reading Test 4. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865386905900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865386905900-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690239884000-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690239884000-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -4753,8 +4753,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865386905900-btn");
- var box = document.getElementById("answer-1766932865386905900-box");
+ var btn = document.getElementById("answer-1766933690239884000-btn");
+ var box = document.getElementById("answer-1766933690239884000-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -4766,12 +4766,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 18 — Test 1 (Reading)</title><link>https://example.com/ielts/reading/cambridge-18-test-1/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-18-test-1/</guid><description>&lt;h2 id="cambridge-18--test-1-reading"&gt;Cambridge 18 — Test 1 (Reading)&lt;a class="anchor" href="#cambridge-18--test-1-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 18 — Test 1 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-18-test-1/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-18-test-1/</guid><description>&lt;h2 id="cambridge-18--test-1-reading"&gt;Cambridge 18 — Test 1 (Reading)&lt;a class="anchor" href="#cambridge-18--test-1-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 18 Reading Test 1. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865322659100-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865322659100-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690242113900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690242113900-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -4902,8 +4902,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865322659100-btn");
- var box = document.getElementById("answer-1766932865322659100-box");
+ var btn = document.getElementById("answer-1766933690242113900-btn");
+ var box = document.getElementById("answer-1766933690242113900-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -4915,12 +4915,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 18 — Test 2 (Reading)</title><link>https://example.com/ielts/reading/cambridge-18-test-2/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-18-test-2/</guid><description>&lt;h2 id="cambridge-18--test-2-reading"&gt;Cambridge 18 — Test 2 (Reading)&lt;a class="anchor" href="#cambridge-18--test-2-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 18 — Test 2 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-18-test-2/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-18-test-2/</guid><description>&lt;h2 id="cambridge-18--test-2-reading"&gt;Cambridge 18 — Test 2 (Reading)&lt;a class="anchor" href="#cambridge-18--test-2-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 18 Reading Test 2. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865331620900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865331620900-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690244156200-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690244156200-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -5051,8 +5051,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865331620900-btn");
- var box = document.getElementById("answer-1766932865331620900-box");
+ var btn = document.getElementById("answer-1766933690244156200-btn");
+ var box = document.getElementById("answer-1766933690244156200-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -5064,12 +5064,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 18 — Test 3 (Reading)</title><link>https://example.com/ielts/reading/cambridge-18-test-3/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-18-test-3/</guid><description>&lt;h2 id="cambridge-18--test-3-reading"&gt;Cambridge 18 — Test 3 (Reading)&lt;a class="anchor" href="#cambridge-18--test-3-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 18 — Test 3 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-18-test-3/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-18-test-3/</guid><description>&lt;h2 id="cambridge-18--test-3-reading"&gt;Cambridge 18 — Test 3 (Reading)&lt;a class="anchor" href="#cambridge-18--test-3-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 18 Reading Test 3. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865334178000-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865334178000-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690247184100-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690247184100-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -5200,8 +5200,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865334178000-btn");
- var box = document.getElementById("answer-1766932865334178000-box");
+ var btn = document.getElementById("answer-1766933690247184100-btn");
+ var box = document.getElementById("answer-1766933690247184100-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -5213,12 +5213,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 18 — Test 4 (Reading)</title><link>https://example.com/ielts/reading/cambridge-18-test-4/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-18-test-4/</guid><description>&lt;h2 id="cambridge-18--test-4-reading"&gt;Cambridge 18 — Test 4 (Reading)&lt;a class="anchor" href="#cambridge-18--test-4-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 18 — Test 4 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-18-test-4/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-18-test-4/</guid><description>&lt;h2 id="cambridge-18--test-4-reading"&gt;Cambridge 18 — Test 4 (Reading)&lt;a class="anchor" href="#cambridge-18--test-4-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 18 Reading Test 4. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865334793400-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865334793400-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690247184100-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690247184100-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -5349,8 +5349,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865334793400-btn");
- var box = document.getElementById("answer-1766932865334793400-box");
+ var btn = document.getElementById("answer-1766933690247184100-btn");
+ var box = document.getElementById("answer-1766933690247184100-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -5362,12 +5362,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 19 — Test 1 (Reading)</title><link>https://example.com/ielts/reading/cambridge-19-test-1/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-19-test-1/</guid><description>&lt;h2 id="cambridge-19--test-1-reading"&gt;Cambridge 19 — Test 1 (Reading)&lt;a class="anchor" href="#cambridge-19--test-1-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 19 — Test 1 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-19-test-1/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-19-test-1/</guid><description>&lt;h2 id="cambridge-19--test-1-reading"&gt;Cambridge 19 — Test 1 (Reading)&lt;a class="anchor" href="#cambridge-19--test-1-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 19 Reading Test 1. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865336431000-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865336431000-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690247184100-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690247184100-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -5498,8 +5498,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865336431000-btn");
- var box = document.getElementById("answer-1766932865336431000-box");
+ var btn = document.getElementById("answer-1766933690247184100-btn");
+ var box = document.getElementById("answer-1766933690247184100-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -5511,12 +5511,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 19 — Test 2 (Reading)</title><link>https://example.com/ielts/reading/cambridge-19-test-2/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-19-test-2/</guid><description>&lt;h2 id="cambridge-19--test-2-reading"&gt;Cambridge 19 — Test 2 (Reading)&lt;a class="anchor" href="#cambridge-19--test-2-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 19 — Test 2 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-19-test-2/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-19-test-2/</guid><description>&lt;h2 id="cambridge-19--test-2-reading"&gt;Cambridge 19 — Test 2 (Reading)&lt;a class="anchor" href="#cambridge-19--test-2-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 19 Reading Test 2. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865340772600-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865340772600-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690251438500-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690251438500-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -5647,8 +5647,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865340772600-btn");
- var box = document.getElementById("answer-1766932865340772600-box");
+ var btn = document.getElementById("answer-1766933690251438500-btn");
+ var box = document.getElementById("answer-1766933690251438500-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -5660,12 +5660,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 19 — Test 3 (Reading)</title><link>https://example.com/ielts/reading/cambridge-19-test-3/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-19-test-3/</guid><description>&lt;h2 id="cambridge-19--test-3-reading"&gt;Cambridge 19 — Test 3 (Reading)&lt;a class="anchor" href="#cambridge-19--test-3-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 19 — Test 3 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-19-test-3/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-19-test-3/</guid><description>&lt;h2 id="cambridge-19--test-3-reading"&gt;Cambridge 19 — Test 3 (Reading)&lt;a class="anchor" href="#cambridge-19--test-3-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 19 Reading Test 3. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865337648300-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865337648300-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690251438500-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690251438500-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -5796,8 +5796,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865337648300-btn");
- var box = document.getElementById("answer-1766932865337648300-box");
+ var btn = document.getElementById("answer-1766933690251438500-btn");
+ var box = document.getElementById("answer-1766933690251438500-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -5809,12 +5809,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 19 — Test 4 (Reading)</title><link>https://example.com/ielts/reading/cambridge-19-test-4/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-19-test-4/</guid><description>&lt;h2 id="cambridge-19--test-4-reading"&gt;Cambridge 19 — Test 4 (Reading)&lt;a class="anchor" href="#cambridge-19--test-4-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 19 — Test 4 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-19-test-4/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-19-test-4/</guid><description>&lt;h2 id="cambridge-19--test-4-reading"&gt;Cambridge 19 — Test 4 (Reading)&lt;a class="anchor" href="#cambridge-19--test-4-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 19 Reading Test 4. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865339423000-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865339423000-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690252608200-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690252608200-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -5945,8 +5945,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865339423000-btn");
- var box = document.getElementById("answer-1766932865339423000-box");
+ var btn = document.getElementById("answer-1766933690252608200-btn");
+ var box = document.getElementById("answer-1766933690252608200-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -5958,13 +5958,13 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 20 — Test 1 (Reading)</title><link>https://example.com/ielts/reading/cambridge-20-test-1/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-20-test-1/</guid><description>&lt;h2 id="cambridge-20--test-1-reading"&gt;Cambridge 20 — Test 1 (Reading)&lt;a class="anchor" href="#cambridge-20--test-1-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 20 — Test 1 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-20-test-1/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-20-test-1/</guid><description>&lt;h2 id="cambridge-20--test-1-reading"&gt;Cambridge 20 — Test 1 (Reading)&lt;a class="anchor" href="#cambridge-20--test-1-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 20 Reading Test 1. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Passages:&lt;/strong&gt; Electroreception | The Elm (Dutch Elm Disease) | The Many Worlds Theory (Hugh Everett)&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865341286600-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865341286600-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690252608200-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690252608200-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -6095,8 +6095,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865341286600-btn");
- var box = document.getElementById("answer-1766932865341286600-box");
+ var btn = document.getElementById("answer-1766933690252608200-btn");
+ var box = document.getElementById("answer-1766933690252608200-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -6108,13 +6108,13 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 20 — Test 2 (Reading)</title><link>https://example.com/ielts/reading/cambridge-20-test-2/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-20-test-2/</guid><description>&lt;h2 id="cambridge-20--test-2-reading"&gt;Cambridge 20 — Test 2 (Reading)&lt;a class="anchor" href="#cambridge-20--test-2-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 20 — Test 2 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-20-test-2/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-20-test-2/</guid><description>&lt;h2 id="cambridge-20--test-2-reading"&gt;Cambridge 20 — Test 2 (Reading)&lt;a class="anchor" href="#cambridge-20--test-2-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 20 Reading Test 2. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Passages:&lt;/strong&gt; Manatees | Procrastination | Automated Ball-Strike System (Baseball)&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865344326700-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865344326700-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690253132400-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690253132400-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -6245,8 +6245,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865344326700-btn");
- var box = document.getElementById("answer-1766932865344326700-box");
+ var btn = document.getElementById("answer-1766933690253132400-btn");
+ var box = document.getElementById("answer-1766933690253132400-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -6258,13 +6258,13 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 20 — Test 3 (Reading)</title><link>https://example.com/ielts/reading/cambridge-20-test-3/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-20-test-3/</guid><description>&lt;h2 id="cambridge-20--test-3-reading"&gt;Cambridge 20 — Test 3 (Reading)&lt;a class="anchor" href="#cambridge-20--test-3-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 20 — Test 3 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-20-test-3/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-20-test-3/</guid><description>&lt;h2 id="cambridge-20--test-3-reading"&gt;Cambridge 20 — Test 3 (Reading)&lt;a class="anchor" href="#cambridge-20--test-3-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 20 Reading Test 3. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Passages:&lt;/strong&gt; The History of Frozen Food | Coral Reefs (Tiny Giants) | Robots and Us&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865347316200-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865347316200-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690253132400-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690253132400-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -6395,8 +6395,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865347316200-btn");
- var box = document.getElementById("answer-1766932865347316200-box");
+ var btn = document.getElementById("answer-1766933690253132400-btn");
+ var box = document.getElementById("answer-1766933690253132400-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -6408,13 +6408,13 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 20 — Test 4 (Reading)</title><link>https://example.com/ielts/reading/cambridge-20-test-4/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-20-test-4/</guid><description>&lt;h2 id="cambridge-20--test-4-reading"&gt;Cambridge 20 — Test 4 (Reading)&lt;a class="anchor" href="#cambridge-20--test-4-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 20 — Test 4 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-20-test-4/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-20-test-4/</guid><description>&lt;h2 id="cambridge-20--test-4-reading"&gt;Cambridge 20 — Test 4 (Reading)&lt;a class="anchor" href="#cambridge-20--test-4-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 20 Reading Test 4. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Passages:&lt;/strong&gt; Georgia O&amp;rsquo;Keeffe | Climate Change Adaptation (Floating Houses) | Golden Jackals&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865347909800-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865347909800-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690254972200-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690254972200-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -6545,8 +6545,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865347909800-btn");
- var box = document.getElementById("answer-1766932865347909800-box");
+ var btn = document.getElementById("answer-1766933690254972200-btn");
+ var box = document.getElementById("answer-1766933690254972200-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -6558,12 +6558,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 7 — Test 1 (Reading)</title><link>https://example.com/ielts/reading/cambridge-7-test-1/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-7-test-1/</guid><description>&lt;h2 id="cambridge-7--test-1-reading"&gt;Cambridge 7 — Test 1 (Reading)&lt;a class="anchor" href="#cambridge-7--test-1-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 7 — Test 1 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-7-test-1/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-7-test-1/</guid><description>&lt;h2 id="cambridge-7--test-1-reading"&gt;Cambridge 7 — Test 1 (Reading)&lt;a class="anchor" href="#cambridge-7--test-1-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 7 Reading Test 1. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865350986100-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865350986100-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690260952700-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690260952700-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -6694,8 +6694,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865350986100-btn");
- var box = document.getElementById("answer-1766932865350986100-box");
+ var btn = document.getElementById("answer-1766933690260952700-btn");
+ var box = document.getElementById("answer-1766933690260952700-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -6707,12 +6707,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 7 — Test 2 (Reading)</title><link>https://example.com/ielts/reading/cambridge-7-test-2/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-7-test-2/</guid><description>&lt;h2 id="cambridge-7--test-2-reading"&gt;Cambridge 7 — Test 2 (Reading)&lt;a class="anchor" href="#cambridge-7--test-2-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 7 — Test 2 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-7-test-2/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-7-test-2/</guid><description>&lt;h2 id="cambridge-7--test-2-reading"&gt;Cambridge 7 — Test 2 (Reading)&lt;a class="anchor" href="#cambridge-7--test-2-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 7 Reading Test 2. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865352363400-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865352363400-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690274110700-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690274110700-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -6843,8 +6843,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865352363400-btn");
- var box = document.getElementById("answer-1766932865352363400-box");
+ var btn = document.getElementById("answer-1766933690274110700-btn");
+ var box = document.getElementById("answer-1766933690274110700-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -6856,12 +6856,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 7 — Test 3 (Reading)</title><link>https://example.com/ielts/reading/cambridge-7-test-3/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-7-test-3/</guid><description>&lt;h2 id="cambridge-7--test-3-reading"&gt;Cambridge 7 — Test 3 (Reading)&lt;a class="anchor" href="#cambridge-7--test-3-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 7 — Test 3 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-7-test-3/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-7-test-3/</guid><description>&lt;h2 id="cambridge-7--test-3-reading"&gt;Cambridge 7 — Test 3 (Reading)&lt;a class="anchor" href="#cambridge-7--test-3-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 7 Reading Test 3. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865355412800-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865355412800-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690274110700-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690274110700-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -6992,8 +6992,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865355412800-btn");
- var box = document.getElementById("answer-1766932865355412800-box");
+ var btn = document.getElementById("answer-1766933690274110700-btn");
+ var box = document.getElementById("answer-1766933690274110700-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -7005,12 +7005,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 7 — Test 4 (Reading)</title><link>https://example.com/ielts/reading/cambridge-7-test-4/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-7-test-4/</guid><description>&lt;h2 id="cambridge-7--test-4-reading"&gt;Cambridge 7 — Test 4 (Reading)&lt;a class="anchor" href="#cambridge-7--test-4-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 7 — Test 4 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-7-test-4/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-7-test-4/</guid><description>&lt;h2 id="cambridge-7--test-4-reading"&gt;Cambridge 7 — Test 4 (Reading)&lt;a class="anchor" href="#cambridge-7--test-4-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 7 Reading Test 4. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865358312500-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865358312500-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690287662300-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690287662300-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -7141,8 +7141,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865358312500-btn");
- var box = document.getElementById("answer-1766932865358312500-box");
+ var btn = document.getElementById("answer-1766933690287662300-btn");
+ var box = document.getElementById("answer-1766933690287662300-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -7154,12 +7154,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 8 — Test 1 (Reading)</title><link>https://example.com/ielts/reading/cambridge-8-test-1/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-8-test-1/</guid><description>&lt;h2 id="cambridge-8--test-1-reading"&gt;Cambridge 8 — Test 1 (Reading)&lt;a class="anchor" href="#cambridge-8--test-1-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 8 — Test 1 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-8-test-1/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-8-test-1/</guid><description>&lt;h2 id="cambridge-8--test-1-reading"&gt;Cambridge 8 — Test 1 (Reading)&lt;a class="anchor" href="#cambridge-8--test-1-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 8 Reading Test 1. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865362913800-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865362913800-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690290428600-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690290428600-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -7290,8 +7290,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865362913800-btn");
- var box = document.getElementById("answer-1766932865362913800-box");
+ var btn = document.getElementById("answer-1766933690290428600-btn");
+ var box = document.getElementById("answer-1766933690290428600-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -7303,12 +7303,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 8 — Test 2 (Reading)</title><link>https://example.com/ielts/reading/cambridge-8-test-2/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-8-test-2/</guid><description>&lt;h2 id="cambridge-8--test-2-reading"&gt;Cambridge 8 — Test 2 (Reading)&lt;a class="anchor" href="#cambridge-8--test-2-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 8 — Test 2 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-8-test-2/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-8-test-2/</guid><description>&lt;h2 id="cambridge-8--test-2-reading"&gt;Cambridge 8 — Test 2 (Reading)&lt;a class="anchor" href="#cambridge-8--test-2-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 8 Reading Test 2. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865362913800-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865362913800-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690290937000-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690290937000-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -7439,8 +7439,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865362913800-btn");
- var box = document.getElementById("answer-1766932865362913800-box");
+ var btn = document.getElementById("answer-1766933690290937000-btn");
+ var box = document.getElementById("answer-1766933690290937000-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -7452,12 +7452,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 8 — Test 3 (Reading)</title><link>https://example.com/ielts/reading/cambridge-8-test-3/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-8-test-3/</guid><description>&lt;h2 id="cambridge-8--test-3-reading"&gt;Cambridge 8 — Test 3 (Reading)&lt;a class="anchor" href="#cambridge-8--test-3-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 8 — Test 3 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-8-test-3/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-8-test-3/</guid><description>&lt;h2 id="cambridge-8--test-3-reading"&gt;Cambridge 8 — Test 3 (Reading)&lt;a class="anchor" href="#cambridge-8--test-3-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 8 Reading Test 3. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865375004700-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865375004700-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690292076900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690292076900-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -7588,8 +7588,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865375004700-btn");
- var box = document.getElementById("answer-1766932865375004700-box");
+ var btn = document.getElementById("answer-1766933690292076900-btn");
+ var box = document.getElementById("answer-1766933690292076900-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -7601,12 +7601,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 8 — Test 4 (Reading)</title><link>https://example.com/ielts/reading/cambridge-8-test-4/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-8-test-4/</guid><description>&lt;h2 id="cambridge-8--test-4-reading"&gt;Cambridge 8 — Test 4 (Reading)&lt;a class="anchor" href="#cambridge-8--test-4-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 8 — Test 4 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-8-test-4/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-8-test-4/</guid><description>&lt;h2 id="cambridge-8--test-4-reading"&gt;Cambridge 8 — Test 4 (Reading)&lt;a class="anchor" href="#cambridge-8--test-4-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 8 Reading Test 4. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865364924300-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865364924300-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690294733800-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690294733800-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -7737,8 +7737,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865364924300-btn");
- var box = document.getElementById("answer-1766932865364924300-box");
+ var btn = document.getElementById("answer-1766933690294733800-btn");
+ var box = document.getElementById("answer-1766933690294733800-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -7750,12 +7750,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 9 — Test 1 (Reading)</title><link>https://example.com/ielts/reading/cambridge-9-test-1/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-9-test-1/</guid><description>&lt;h2 id="cambridge-9--test-1-reading"&gt;Cambridge 9 — Test 1 (Reading)&lt;a class="anchor" href="#cambridge-9--test-1-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 9 — Test 1 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-9-test-1/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-9-test-1/</guid><description>&lt;h2 id="cambridge-9--test-1-reading"&gt;Cambridge 9 — Test 1 (Reading)&lt;a class="anchor" href="#cambridge-9--test-1-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 9 Reading Test 1. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865364924300-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865364924300-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690294733800-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690294733800-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -7886,8 +7886,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865364924300-btn");
- var box = document.getElementById("answer-1766932865364924300-box");
+ var btn = document.getElementById("answer-1766933690294733800-btn");
+ var box = document.getElementById("answer-1766933690294733800-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -7899,12 +7899,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 9 — Test 2 (Reading)</title><link>https://example.com/ielts/reading/cambridge-9-test-2/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-9-test-2/</guid><description>&lt;h2 id="cambridge-9--test-2-reading"&gt;Cambridge 9 — Test 2 (Reading)&lt;a class="anchor" href="#cambridge-9--test-2-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 9 — Test 2 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-9-test-2/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-9-test-2/</guid><description>&lt;h2 id="cambridge-9--test-2-reading"&gt;Cambridge 9 — Test 2 (Reading)&lt;a class="anchor" href="#cambridge-9--test-2-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 9 Reading Test 2. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865366936900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865366936900-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690298514400-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690298514400-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -8035,8 +8035,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865366936900-btn");
- var box = document.getElementById("answer-1766932865366936900-box");
+ var btn = document.getElementById("answer-1766933690298514400-btn");
+ var box = document.getElementById("answer-1766933690298514400-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -8048,12 +8048,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 9 — Test 3 (Reading)</title><link>https://example.com/ielts/reading/cambridge-9-test-3/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-9-test-3/</guid><description>&lt;h2 id="cambridge-9--test-3-reading"&gt;Cambridge 9 — Test 3 (Reading)&lt;a class="anchor" href="#cambridge-9--test-3-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 9 — Test 3 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-9-test-3/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-9-test-3/</guid><description>&lt;h2 id="cambridge-9--test-3-reading"&gt;Cambridge 9 — Test 3 (Reading)&lt;a class="anchor" href="#cambridge-9--test-3-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 9 Reading Test 3. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865368949100-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865368949100-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690300806100-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690300806100-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -8184,8 +8184,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865368949100-btn");
- var box = document.getElementById("answer-1766932865368949100-box");
+ var btn = document.getElementById("answer-1766933690300806100-btn");
+ var box = document.getElementById("answer-1766933690300806100-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -8197,12 +8197,12 @@
  }
  });
  })();
- &lt;/script&gt;</description></item><item><title>Cambridge 9 — Test 4 (Reading)</title><link>https://example.com/ielts/reading/cambridge-9-test-4/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://example.com/ielts/reading/cambridge-9-test-4/</guid><description>&lt;h2 id="cambridge-9--test-4-reading"&gt;Cambridge 9 — Test 4 (Reading)&lt;a class="anchor" href="#cambridge-9--test-4-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
+ &lt;/script&gt;</description></item><item><title>Cambridge 9 — Test 4 (Reading)</title><link>https://www.hightargets.com/ielts/reading/cambridge-9-test-4/</link><pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate><guid>https://www.hightargets.com/ielts/reading/cambridge-9-test-4/</guid><description>&lt;h2 id="cambridge-9--test-4-reading"&gt;Cambridge 9 — Test 4 (Reading)&lt;a class="anchor" href="#cambridge-9--test-4-reading"&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Complete answer key for Cambridge 9 Reading Test 4. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766932865370961000-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766932865370961000-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766933690302822200-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766933690302822200-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -8333,8 +8333,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766932865370961000-btn");
- var box = document.getElementById("answer-1766932865370961000-box");
+ var btn = document.getElementById("answer-1766933690302822200-btn");
+ var box = document.getElementById("answer-1766933690302822200-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {

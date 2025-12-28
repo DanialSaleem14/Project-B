@@ -1,4 +1,4 @@
-baseURL = "https://example.com/" # placeholder — replace with your real site URL
+baseURL = "https://www.hightargets.com/"
 languageCode = "en-us"
 title = "HighTargets"
 theme = "hugo-book"
