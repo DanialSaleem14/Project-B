@@ -2,8 +2,8 @@
 &lt;p&gt;Complete answer key for Cambridge 10 Reading Test 1. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554594676900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554594676900-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286208246300-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286208246300-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -134,8 +134,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554594676900-btn");
- var box = document.getElementById("answer-1766931554594676900-box");
+ var btn = document.getElementById("answer-1766932286208246300-btn");
+ var box = document.getElementById("answer-1766932286208246300-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -151,8 +151,8 @@
 &lt;p&gt;Complete answer key for Cambridge 10 Reading Test 2. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554594676900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554594676900-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286208246300-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286208246300-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -283,8 +283,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554594676900-btn");
- var box = document.getElementById("answer-1766931554594676900-box");
+ var btn = document.getElementById("answer-1766932286208246300-btn");
+ var box = document.getElementById("answer-1766932286208246300-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -300,8 +300,8 @@
 &lt;p&gt;Complete answer key for Cambridge 10 Reading Test 3. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554595383500-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554595383500-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286208246300-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286208246300-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -432,8 +432,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554595383500-btn");
- var box = document.getElementById("answer-1766931554595383500-box");
+ var btn = document.getElementById("answer-1766932286208246300-btn");
+ var box = document.getElementById("answer-1766932286208246300-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -449,8 +449,8 @@
 &lt;p&gt;Complete answer key for Cambridge 10 Reading Test 4. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554594676900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554594676900-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286208246300-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286208246300-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -581,8 +581,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554594676900-btn");
- var box = document.getElementById("answer-1766931554594676900-box");
+ var btn = document.getElementById("answer-1766932286208246300-btn");
+ var box = document.getElementById("answer-1766932286208246300-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -598,8 +598,8 @@
 &lt;p&gt;Complete answer key for Cambridge 11 Reading Test 1. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554594676900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554594676900-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286208246300-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286208246300-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -730,8 +730,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554594676900-btn");
- var box = document.getElementById("answer-1766931554594676900-box");
+ var btn = document.getElementById("answer-1766932286208246300-btn");
+ var box = document.getElementById("answer-1766932286208246300-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -747,8 +747,8 @@
 &lt;p&gt;Complete answer key for Cambridge 11 Reading Test 2. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554595383500-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554595383500-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286208246300-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286208246300-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -879,8 +879,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554595383500-btn");
- var box = document.getElementById("answer-1766931554595383500-box");
+ var btn = document.getElementById("answer-1766932286208246300-btn");
+ var box = document.getElementById("answer-1766932286208246300-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -896,8 +896,8 @@
 &lt;p&gt;Complete answer key for Cambridge 11 Reading Test 3. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554598576600-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554598576600-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286217873100-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286217873100-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -1028,8 +1028,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554598576600-btn");
- var box = document.getElementById("answer-1766931554598576600-box");
+ var btn = document.getElementById("answer-1766932286217873100-btn");
+ var box = document.getElementById("answer-1766932286217873100-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -1045,8 +1045,8 @@
 &lt;p&gt;Complete answer key for Cambridge 11 Reading Test 4. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554599997900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554599997900-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286218639100-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286218639100-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -1177,8 +1177,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554599997900-btn");
- var box = document.getElementById("answer-1766931554599997900-box");
+ var btn = document.getElementById("answer-1766932286218639100-btn");
+ var box = document.getElementById("answer-1766932286218639100-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -1194,8 +1194,8 @@
 &lt;p&gt;Complete answer key for Cambridge 12 Reading Test 1. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554606845300-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554606845300-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286219984600-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286219984600-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -1326,8 +1326,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554606845300-btn");
- var box = document.getElementById("answer-1766931554606845300-box");
+ var btn = document.getElementById("answer-1766932286219984600-btn");
+ var box = document.getElementById("answer-1766932286219984600-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -1343,8 +1343,8 @@
 &lt;p&gt;Complete answer key for Cambridge 12 Reading Test 2. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554611498600-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554611498600-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286219984600-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286219984600-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -1475,8 +1475,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554611498600-btn");
- var box = document.getElementById("answer-1766931554611498600-box");
+ var btn = document.getElementById("answer-1766932286219984600-btn");
+ var box = document.getElementById("answer-1766932286219984600-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -1492,8 +1492,8 @@
 &lt;p&gt;Complete answer key for Cambridge 12 Reading Test 3. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554613563400-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554613563400-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286219984600-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286219984600-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -1624,8 +1624,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554613563400-btn");
- var box = document.getElementById("answer-1766931554613563400-box");
+ var btn = document.getElementById("answer-1766932286219984600-btn");
+ var box = document.getElementById("answer-1766932286219984600-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -1641,8 +1641,8 @@
 &lt;p&gt;Complete answer key for Cambridge 12 Reading Test 4. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554613563400-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554613563400-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286223056700-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286223056700-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -1773,8 +1773,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554613563400-btn");
- var box = document.getElementById("answer-1766931554613563400-box");
+ var btn = document.getElementById("answer-1766932286223056700-btn");
+ var box = document.getElementById("answer-1766932286223056700-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -1790,8 +1790,8 @@
 &lt;p&gt;Complete answer key for Cambridge 13 Reading Test 1. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554677814700-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554677814700-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286223056700-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286223056700-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -1922,8 +1922,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554677814700-btn");
- var box = document.getElementById("answer-1766931554677814700-box");
+ var btn = document.getElementById("answer-1766932286223056700-btn");
+ var box = document.getElementById("answer-1766932286223056700-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -1939,8 +1939,8 @@
 &lt;p&gt;Complete answer key for Cambridge 13 Reading Test 2. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554659419500-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554659419500-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286223056700-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286223056700-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -2071,8 +2071,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554659419500-btn");
- var box = document.getElementById("answer-1766931554659419500-box");
+ var btn = document.getElementById("answer-1766932286223056700-btn");
+ var box = document.getElementById("answer-1766932286223056700-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -2088,8 +2088,8 @@
 &lt;p&gt;Complete answer key for Cambridge 13 Reading Test 3. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554675288900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554675288900-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286223056700-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286223056700-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -2220,8 +2220,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554675288900-btn");
- var box = document.getElementById("answer-1766931554675288900-box");
+ var btn = document.getElementById("answer-1766932286223056700-btn");
+ var box = document.getElementById("answer-1766932286223056700-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -2237,8 +2237,8 @@
 &lt;p&gt;Complete answer key for Cambridge 13 Reading Test 4. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554641235600-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554641235600-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286225094200-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286225094200-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -2369,8 +2369,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554641235600-btn");
- var box = document.getElementById("answer-1766931554641235600-box");
+ var btn = document.getElementById("answer-1766932286225094200-btn");
+ var box = document.getElementById("answer-1766932286225094200-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -2386,8 +2386,8 @@
 &lt;p&gt;Complete answer key for Cambridge 14 Reading Test 1. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554641235600-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554641235600-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286225094200-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286225094200-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -2518,8 +2518,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554641235600-btn");
- var box = document.getElementById("answer-1766931554641235600-box");
+ var btn = document.getElementById("answer-1766932286225094200-btn");
+ var box = document.getElementById("answer-1766932286225094200-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -2535,8 +2535,8 @@
 &lt;p&gt;Complete answer key for Cambridge 14 Reading Test 2. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554665906300-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554665906300-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286227964300-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286227964300-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -2667,8 +2667,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554665906300-btn");
- var box = document.getElementById("answer-1766931554665906300-box");
+ var btn = document.getElementById("answer-1766932286227964300-btn");
+ var box = document.getElementById("answer-1766932286227964300-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -2684,8 +2684,8 @@
 &lt;p&gt;Complete answer key for Cambridge 14 Reading Test 3. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554671129600-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554671129600-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286233761400-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286233761400-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -2816,8 +2816,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554671129600-btn");
- var box = document.getElementById("answer-1766931554671129600-box");
+ var btn = document.getElementById("answer-1766932286233761400-btn");
+ var box = document.getElementById("answer-1766932286233761400-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -2833,8 +2833,8 @@
 &lt;p&gt;Complete answer key for Cambridge 14 Reading Test 4. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554658902400-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554658902400-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286245425100-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286245425100-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -2965,8 +2965,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554658902400-btn");
- var box = document.getElementById("answer-1766931554658902400-box");
+ var btn = document.getElementById("answer-1766932286245425100-btn");
+ var box = document.getElementById("answer-1766932286245425100-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -2982,8 +2982,8 @@
 &lt;p&gt;Complete answer key for Cambridge 15 Reading Test 1. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554659930000-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554659930000-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286246784900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286246784900-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -3114,8 +3114,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554659930000-btn");
- var box = document.getElementById("answer-1766931554659930000-box");
+ var btn = document.getElementById("answer-1766932286246784900-btn");
+ var box = document.getElementById("answer-1766932286246784900-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -3131,8 +3131,8 @@
 &lt;p&gt;Complete answer key for Cambridge 15 Reading Test 2. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554659930000-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554659930000-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286247843900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286247843900-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -3263,8 +3263,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554659930000-btn");
- var box = document.getElementById("answer-1766931554659930000-box");
+ var btn = document.getElementById("answer-1766932286247843900-btn");
+ var box = document.getElementById("answer-1766932286247843900-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -3280,8 +3280,8 @@
 &lt;p&gt;Complete answer key for Cambridge 15 Reading Test 3. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554661961300-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554661961300-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286247843900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286247843900-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -3412,8 +3412,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554661961300-btn");
- var box = document.getElementById("answer-1766931554661961300-box");
+ var btn = document.getElementById("answer-1766932286247843900-btn");
+ var box = document.getElementById("answer-1766932286247843900-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -3429,8 +3429,8 @@
 &lt;p&gt;Complete answer key for Cambridge 15 Reading Test 4. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554666651000-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554666651000-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286250670700-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286250670700-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -3561,8 +3561,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554666651000-btn");
- var box = document.getElementById("answer-1766931554666651000-box");
+ var btn = document.getElementById("answer-1766932286250670700-btn");
+ var box = document.getElementById("answer-1766932286250670700-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -3578,8 +3578,8 @@
 &lt;p&gt;Complete answer key for Cambridge 16 Reading Test 1. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554666651000-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554666651000-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286251841200-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286251841200-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -3710,8 +3710,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554666651000-btn");
- var box = document.getElementById("answer-1766931554666651000-box");
+ var btn = document.getElementById("answer-1766932286251841200-btn");
+ var box = document.getElementById("answer-1766932286251841200-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -3727,8 +3727,8 @@
 &lt;p&gt;Complete answer key for Cambridge 16 Reading Test 2. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554668367600-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554668367600-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286257808400-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286257808400-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -3859,8 +3859,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554668367600-btn");
- var box = document.getElementById("answer-1766931554668367600-box");
+ var btn = document.getElementById("answer-1766932286257808400-btn");
+ var box = document.getElementById("answer-1766932286257808400-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -3876,8 +3876,8 @@
 &lt;p&gt;Complete answer key for Cambridge 16 Reading Test 3. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554668367600-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554668367600-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286260687800-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286260687800-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -4008,8 +4008,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554668367600-btn");
- var box = document.getElementById("answer-1766931554668367600-box");
+ var btn = document.getElementById("answer-1766932286260687800-btn");
+ var box = document.getElementById("answer-1766932286260687800-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -4025,8 +4025,8 @@
 &lt;p&gt;Complete answer key for Cambridge 16 Reading Test 4. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554669303900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554669303900-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286271650900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286271650900-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -4157,8 +4157,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554669303900-btn");
- var box = document.getElementById("answer-1766931554669303900-box");
+ var btn = document.getElementById("answer-1766932286271650900-btn");
+ var box = document.getElementById("answer-1766932286271650900-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -4174,8 +4174,8 @@
 &lt;p&gt;Complete answer key for Cambridge 17 Reading Test 1. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554671129600-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554671129600-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286262607400-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286262607400-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -4306,8 +4306,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554671129600-btn");
- var box = document.getElementById("answer-1766931554671129600-box");
+ var btn = document.getElementById("answer-1766932286262607400-btn");
+ var box = document.getElementById("answer-1766932286262607400-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -4323,8 +4323,8 @@
 &lt;p&gt;Complete answer key for Cambridge 17 Reading Test 2. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554671129600-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554671129600-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286267979400-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286267979400-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -4455,8 +4455,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554671129600-btn");
- var box = document.getElementById("answer-1766931554671129600-box");
+ var btn = document.getElementById("answer-1766932286267979400-btn");
+ var box = document.getElementById("answer-1766932286267979400-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -4472,8 +4472,8 @@
 &lt;p&gt;Complete answer key for Cambridge 17 Reading Test 3. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554679996200-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554679996200-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286289221500-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286289221500-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -4604,8 +4604,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554679996200-btn");
- var box = document.getElementById("answer-1766931554679996200-box");
+ var btn = document.getElementById("answer-1766932286289221500-btn");
+ var box = document.getElementById("answer-1766932286289221500-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -4621,8 +4621,8 @@
 &lt;p&gt;Complete answer key for Cambridge 17 Reading Test 4. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554679996200-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554679996200-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286262607400-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286262607400-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -4753,8 +4753,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554679996200-btn");
- var box = document.getElementById("answer-1766931554679996200-box");
+ var btn = document.getElementById("answer-1766932286262607400-btn");
+ var box = document.getElementById("answer-1766932286262607400-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -4770,8 +4770,8 @@
 &lt;p&gt;Complete answer key for Cambridge 18 Reading Test 1. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554685768300-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554685768300-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286262607400-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286262607400-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -4902,8 +4902,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554685768300-btn");
- var box = document.getElementById("answer-1766931554685768300-box");
+ var btn = document.getElementById("answer-1766932286262607400-btn");
+ var box = document.getElementById("answer-1766932286262607400-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -4919,8 +4919,8 @@
 &lt;p&gt;Complete answer key for Cambridge 18 Reading Test 2. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554682942300-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554682942300-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286263508300-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286263508300-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -5051,8 +5051,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554682942300-btn");
- var box = document.getElementById("answer-1766931554682942300-box");
+ var btn = document.getElementById("answer-1766932286263508300-btn");
+ var box = document.getElementById("answer-1766932286263508300-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -5068,8 +5068,8 @@
 &lt;p&gt;Complete answer key for Cambridge 18 Reading Test 3. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554695780100-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554695780100-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286266003600-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286266003600-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -5200,8 +5200,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554695780100-btn");
- var box = document.getElementById("answer-1766931554695780100-box");
+ var btn = document.getElementById("answer-1766932286266003600-btn");
+ var box = document.getElementById("answer-1766932286266003600-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -5217,8 +5217,8 @@
 &lt;p&gt;Complete answer key for Cambridge 18 Reading Test 4. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554702287000-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554702287000-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286267979400-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286267979400-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -5349,8 +5349,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554702287000-btn");
- var box = document.getElementById("answer-1766931554702287000-box");
+ var btn = document.getElementById("answer-1766932286267979400-btn");
+ var box = document.getElementById("answer-1766932286267979400-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -5366,8 +5366,8 @@
 &lt;p&gt;Complete answer key for Cambridge 19 Reading Test 1. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554702287000-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554702287000-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286271650900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286271650900-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -5498,8 +5498,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554702287000-btn");
- var box = document.getElementById("answer-1766931554702287000-box");
+ var btn = document.getElementById("answer-1766932286271650900-btn");
+ var box = document.getElementById("answer-1766932286271650900-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -5515,8 +5515,8 @@
 &lt;p&gt;Complete answer key for Cambridge 19 Reading Test 2. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554704377700-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554704377700-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286280673300-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286280673300-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -5647,8 +5647,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554704377700-btn");
- var box = document.getElementById("answer-1766931554704377700-box");
+ var btn = document.getElementById("answer-1766932286280673300-btn");
+ var box = document.getElementById("answer-1766932286280673300-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -5664,8 +5664,8 @@
 &lt;p&gt;Complete answer key for Cambridge 19 Reading Test 3. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554705932200-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554705932200-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286277381700-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286277381700-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -5796,8 +5796,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554705932200-btn");
- var box = document.getElementById("answer-1766931554705932200-box");
+ var btn = document.getElementById("answer-1766932286277381700-btn");
+ var box = document.getElementById("answer-1766932286277381700-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -5813,8 +5813,8 @@
 &lt;p&gt;Complete answer key for Cambridge 19 Reading Test 4. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554710065900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554710065900-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286289221500-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286289221500-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -5945,8 +5945,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554710065900-btn");
- var box = document.getElementById("answer-1766931554710065900-box");
+ var btn = document.getElementById("answer-1766932286289221500-btn");
+ var box = document.getElementById("answer-1766932286289221500-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -5963,8 +5963,8 @@
 &lt;p&gt;&lt;strong&gt;Passages:&lt;/strong&gt; Electroreception | The Elm (Dutch Elm Disease) | The Many Worlds Theory (Hugh Everett)&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554719884000-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554719884000-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286290491300-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286290491300-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -6095,8 +6095,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554719884000-btn");
- var box = document.getElementById("answer-1766931554719884000-box");
+ var btn = document.getElementById("answer-1766932286290491300-btn");
+ var box = document.getElementById("answer-1766932286290491300-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -6113,8 +6113,8 @@
 &lt;p&gt;&lt;strong&gt;Passages:&lt;/strong&gt; Manatees | Procrastination | Automated Ball-Strike System (Baseball)&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554712087500-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554712087500-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286282723000-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286282723000-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -6245,8 +6245,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554712087500-btn");
- var box = document.getElementById("answer-1766931554712087500-box");
+ var btn = document.getElementById("answer-1766932286282723000-btn");
+ var box = document.getElementById("answer-1766932286282723000-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -6263,8 +6263,8 @@
 &lt;p&gt;&lt;strong&gt;Passages:&lt;/strong&gt; The History of Frozen Food | Coral Reefs (Tiny Giants) | Robots and Us&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554731663900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554731663900-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286289221500-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286289221500-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -6395,8 +6395,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554731663900-btn");
- var box = document.getElementById("answer-1766931554731663900-box");
+ var btn = document.getElementById("answer-1766932286289221500-btn");
+ var box = document.getElementById("answer-1766932286289221500-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -6413,8 +6413,8 @@
 &lt;p&gt;&lt;strong&gt;Passages:&lt;/strong&gt; Georgia O&amp;rsquo;Keeffe | Climate Change Adaptation (Floating Houses) | Golden Jackals&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554727621900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554727621900-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286289221500-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286289221500-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -6545,8 +6545,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554727621900-btn");
- var box = document.getElementById("answer-1766931554727621900-box");
+ var btn = document.getElementById("answer-1766932286289221500-btn");
+ var box = document.getElementById("answer-1766932286289221500-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -6562,8 +6562,8 @@
 &lt;p&gt;Complete answer key for Cambridge 7 Reading Test 1. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554726302100-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554726302100-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286286210700-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286286210700-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -6694,8 +6694,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554726302100-btn");
- var box = document.getElementById("answer-1766931554726302100-box");
+ var btn = document.getElementById("answer-1766932286286210700-btn");
+ var box = document.getElementById("answer-1766932286286210700-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -6711,8 +6711,8 @@
 &lt;p&gt;Complete answer key for Cambridge 7 Reading Test 2. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554727621900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554727621900-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286291824400-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286291824400-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -6843,8 +6843,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554727621900-btn");
- var box = document.getElementById("answer-1766931554727621900-box");
+ var btn = document.getElementById("answer-1766932286291824400-btn");
+ var box = document.getElementById("answer-1766932286291824400-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -6860,8 +6860,8 @@
 &lt;p&gt;Complete answer key for Cambridge 7 Reading Test 3. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554727621900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554727621900-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286292682000-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286292682000-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -6992,8 +6992,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554727621900-btn");
- var box = document.getElementById("answer-1766931554727621900-box");
+ var btn = document.getElementById("answer-1766932286292682000-btn");
+ var box = document.getElementById("answer-1766932286292682000-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -7009,8 +7009,8 @@
 &lt;p&gt;Complete answer key for Cambridge 7 Reading Test 4. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554781916900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554781916900-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286293192300-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286293192300-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -7141,8 +7141,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554781916900-btn");
- var box = document.getElementById("answer-1766931554781916900-box");
+ var btn = document.getElementById("answer-1766932286293192300-btn");
+ var box = document.getElementById("answer-1766932286293192300-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -7158,8 +7158,8 @@
 &lt;p&gt;Complete answer key for Cambridge 8 Reading Test 1. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554731663900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554731663900-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286293796100-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286293796100-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -7290,8 +7290,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554731663900-btn");
- var box = document.getElementById("answer-1766931554731663900-box");
+ var btn = document.getElementById("answer-1766932286293796100-btn");
+ var box = document.getElementById("answer-1766932286293796100-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -7307,8 +7307,8 @@
 &lt;p&gt;Complete answer key for Cambridge 8 Reading Test 2. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554731663900-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554731663900-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286294468700-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286294468700-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -7439,8 +7439,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554731663900-btn");
- var box = document.getElementById("answer-1766931554731663900-box");
+ var btn = document.getElementById("answer-1766932286294468700-btn");
+ var box = document.getElementById("answer-1766932286294468700-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -7456,8 +7456,8 @@
 &lt;p&gt;Complete answer key for Cambridge 8 Reading Test 3. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554771642700-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554771642700-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286295234000-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286295234000-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -7588,8 +7588,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554771642700-btn");
- var box = document.getElementById("answer-1766931554771642700-box");
+ var btn = document.getElementById("answer-1766932286295234000-btn");
+ var box = document.getElementById("answer-1766932286295234000-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -7605,8 +7605,8 @@
 &lt;p&gt;Complete answer key for Cambridge 8 Reading Test 4. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554769104300-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554769104300-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286296025200-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286296025200-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -7737,8 +7737,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554769104300-btn");
- var box = document.getElementById("answer-1766931554769104300-box");
+ var btn = document.getElementById("answer-1766932286296025200-btn");
+ var box = document.getElementById("answer-1766932286296025200-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -7754,8 +7754,8 @@
 &lt;p&gt;Complete answer key for Cambridge 9 Reading Test 1. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554769104300-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554769104300-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286296025200-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286296025200-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -7886,8 +7886,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554769104300-btn");
- var box = document.getElementById("answer-1766931554769104300-box");
+ var btn = document.getElementById("answer-1766932286296025200-btn");
+ var box = document.getElementById("answer-1766932286296025200-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -7903,8 +7903,8 @@
 &lt;p&gt;Complete answer key for Cambridge 9 Reading Test 2. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554787447400-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554787447400-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286296025200-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286296025200-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -8035,8 +8035,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554787447400-btn");
- var box = document.getElementById("answer-1766931554787447400-box");
+ var btn = document.getElementById("answer-1766932286296025200-btn");
+ var box = document.getElementById("answer-1766932286296025200-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -8052,8 +8052,8 @@
 &lt;p&gt;Complete answer key for Cambridge 9 Reading Test 3. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554771642700-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554771642700-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286298006800-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286298006800-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -8184,8 +8184,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554771642700-btn");
- var box = document.getElementById("answer-1766931554771642700-box");
+ var btn = document.getElementById("answer-1766932286298006800-btn");
+ var box = document.getElementById("answer-1766932286298006800-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
@@ -8201,8 +8201,8 @@
 &lt;p&gt;Complete answer key for Cambridge 9 Reading Test 4. Click &amp;ldquo;Show Answer&amp;rdquo; to reveal all answers.&lt;/p&gt;
 
  
- &lt;button id="answer-1766931554772746300-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
- &lt;div id="answer-1766931554772746300-box" class="answer-content-box" style="display:none;"&gt;
+ &lt;button id="answer-1766932286298518500-btn" class="answer-toggle-btn"&gt;Show Answer&lt;/button&gt;
+ &lt;div id="answer-1766932286298518500-box" class="answer-content-box" style="display:none;"&gt;
  &lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -8333,8 +8333,8 @@
  &lt;/div&gt;
  &lt;script&gt;
  (function () {
- var btn = document.getElementById("answer-1766931554772746300-btn");
- var box = document.getElementById("answer-1766931554772746300-box");
+ var btn = document.getElementById("answer-1766932286298518500-btn");
+ var box = document.getElementById("answer-1766932286298518500-box");
  if (!btn || !box) return;
  btn.addEventListener('click', function () {
  if (box.style.display === 'none' || box.style.display === '') {
