@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "site": "adsense-97b92",
     "public": "public",
     "ignore": [
       "firebase.json",
